@@ -1,9 +1,6 @@
 // 동영상 강의에 나온 코드를 그대로 실습하세요
 // TODO : DOM으로부터 필요한 엘리먼트를 불러오세요.
 
-$(window).load(function () {
-  $('body').sakura();
-});
 
 
 let elLinputUsername = document.querySelector('#username');
