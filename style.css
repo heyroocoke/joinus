@@ -15,7 +15,7 @@ body {
   justify-content: center;
   height: 100vh;
   /* background: linear-gradient(#e6646400, #a94ab09d); */
-  background-image: url("../src/images/flowers-g4ad553037_1920.png");
+  background-image: url("/images/flowers-g4ad553037_1920.png");
   background-size: cover;
 }
 
